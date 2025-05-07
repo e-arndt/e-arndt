@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+  img {
+    width: 50%;
+    height: auto;
+  }
+</style>
+
