@@ -1,97 +1,108 @@
-# Hi there 👋 I'm Eric
+Hi there 👋 I'm Eric
 
-## About Me
+I'm currently pursuing a Bachelor's degree in Computer Programming and Web Design at BYU-Idaho while building software projects focused on performance, usability, automation, and real-world problem solving.
 
-I'm currently pursuing a Bachelor's degree in Computer Programming and Web Design at BYU-Idaho while building software projects focused on performance, usability, and real-world problem solving.
+My background spans television broadcast engineering & production, IT/networking/infrastructure, facilities troubleshooting, and software development. I enjoy projects that combine clean UI/UX, practical engineering, system-level thinking, performance analysis, and useful automation.
 
-My background includes:
-- Television broadcast engineering & production
-- IT / networking / infrastructure
-- Facilities maintenance & troubleshooting
-- Software development and automation
+🚀 Featured Projects
 
-I enjoy building projects that combine:
-- Clean UI/UX
-- Practical engineering
-- System-level thinking
-- Performance analysis
-- Educational tools
+🎙️ MediaScribe
 
----
+A local Windows transcription application built with PowerShell, Python, OpenAI Whisper, and FFmpeg.
 
-## Current Focus
+GUI and terminal workflows
 
-- Rust development
-- TypeScript / Node.js
-- Software testing & automation
-- UI/UX design
-- Database-driven applications
-- System architecture & networking
+Batch transcription
 
----
+Language detection and English translation
 
-## Tech Stack
+Caption/subtitle output
 
-### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Safe stop and file-protection behavior
 
-### Web & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Self-contained dependency handling
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Current public release: MediaScribe 1.0.1
+View MediaScribe
 
----
+🌎 Projecto Honduras
 
-## Featured Projects
+A modern nonprofit web platform with public content, program information, galleries, events, authentication, and an administrative dashboard.
 
-### Time Complexity Analyzer
-Node.js + TypeScript benchmarking application for comparing algorithm performance and analyzing execution times across different datasets.
+Built around TypeScript, Next.js, PostgreSQL, and modern cloud deployment workflows.
 
-### Rust Password Security Demonstrator
-Educational Rust project demonstrating brute-force password cracking concepts and the importance of strong password complexity.
+⏱️ Time Complexity Analyzer
 
-### Honeywell-Inspired Smart Thermostat UI
-Advanced thermostat simulation focused on HVAC logic, scheduling heuristics, fault handling, and real-world usability.
+A Node.js + TypeScript benchmarking application for comparing algorithm performance and analyzing execution times across different datasets.
 
-### Rock Computer Ideas Project
-Concept platform for rock/mineral identification, educational geology workflows, and AI-assisted analysis tools.
+View project
 
----
+🔐 Rust Password Security Demonstrator
 
-## Interests
+An educational Rust CLI project demonstrating deterministic brute-force search, password hashing concepts, and the importance of password complexity.
 
-- Broadcast engineering
-- System design
-- Networking & VLAN architecture
-- Embedded systems
-- Performance optimization
-- Human-centered UI design
-- Retro-futuristic interfaces
+View project
 
----
+🛠️ Languages & Tools
 
-## Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,powershell,html,css,react,nextjs,nodejs,tailwind,postgres,docker,git,github,postman,vscode,vercel&perline=9" alt="Languages and tools" />
+</p>
 
-- Advanced Rust concepts
-- Concurrent programming
-- Frontend application architecture
-- Secure authentication systems
+⚡ Development Stats
 
----
+<p align="center">
+  <img src="./assets/development-stats.svg" alt="Eric Arndt development stats" />
+</p>
 
-## GitHub Stats
+Updated automatically from GitHub. The card focuses on building activity—contributions, public repositories, pull requests, releases, latest release activity, and repository language usage—rather than a popularity score.
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=e-arndt&show_icons=true&theme=dark)
+🎯 Current Focus
 
----
+Rust development
 
-> “Good engineering is often invisible when it works correctly.”
+TypeScript / Node.js
+
+Full-stack web applications
+
+Software testing & automation
+
+UI/UX design
+
+Database-driven applications
+
+Secure authentication systems
+
+System architecture & networking
+
+Local AI and transcription workflows
+
+🔧 Engineering Interests
+
+Broadcast engineering
+
+System design
+
+Networking & VLAN architecture
+
+Embedded systems
+
+Performance optimization
+
+Human-centered UI design
+
+Retro-futuristic interfaces
+
+🌱 Currently Learning
+
+Advanced Rust concepts
+
+Concurrent programming
+
+Frontend application architecture
+
+Secure authentication systems
+
+AI-assisted development workflows
+
+“Good engineering is often invisible when it works correctly.”
