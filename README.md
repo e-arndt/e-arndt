@@ -90,7 +90,7 @@ Concept platform for rock/mineral identification, educational geology workflows,
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=e-arndt&show_icons=true&theme=dark)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=e-arndt&show_icons=true&theme=dark)
 
 ---
 
