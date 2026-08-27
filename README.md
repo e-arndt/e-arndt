@@ -52,8 +52,6 @@ An educational **Rust** CLI project demonstrating deterministic brute-force sear
   <img src="./assets/development-stats.svg" alt="Eric Arndt development stats" />
 </p>
 
-> Updated automatically from GitHub. The card focuses on **building activity**—contributions, public repositories, pull requests, releases, latest release activity, and repository language usage—rather than a popularity score.
-
 ---
 
 ## 🎯 Current Focus
